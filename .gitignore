@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+data/
+.env
+.env*.local
+*.log
+
+# Original source assets — already copied into public/images/, which is
+# what the app actually serves. Kept locally, not duplicated in git.
+/image/
