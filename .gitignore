@@ -11,3 +11,6 @@ data/
 # Original source assets — already copied into public/images/, which is
 # what the app actually serves. Kept locally, not duplicated in git.
 /image/
+
+.vercel
+.env*
